@@ -1,0 +1,20 @@
+{
+  "name": "ninja/typograph",
+  "description": "typograph",
+  "require": {
+    "php": ">=4"
+  },
+  "license": "MIT",
+  "type": "library",
+  "keywords": ["typograph"],
+  "homepage": "http://mdash.ru",
+  "authors": [
+    {
+      "name": "Evgeny Muravjev & Alexander Drutsa",
+      "homepage": "http://mdash.ru/"
+    }
+  ],
+  "autoload": {
+    "classmap": ["EMT_Lib.php"]
+  }
+}
